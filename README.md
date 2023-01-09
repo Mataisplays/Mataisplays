@@ -1,7 +1,7 @@
 # Gracias por tomarte el tiempo de ver mi biografia <3
 
 - 👋 Hola! soy @Mataisplays
-- 👀 Soy un programador de node.js y front-end
+- 👀 Soy un programador junior en node.js y novato en front-end
 - 🌱 Actualmente aprendo desarrollo web
 - 🍕 Me encanta la pizza
 - 🥇 No. 1 en regarla
