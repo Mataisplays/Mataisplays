@@ -5,7 +5,6 @@
 - 🌱 Actualmente aprendo desarrollo web
 - 🍕 Me encanta la pizza
 - 🥇 No. 1 en regarla
-- 😎 Creador de **Aracely bot** y **Star Bot List**
 
 <!---
 Mataisplays/Mataisplays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
