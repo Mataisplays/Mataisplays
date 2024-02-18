@@ -1,10 +1,8 @@
 # Gracias por tomarte el tiempo de ver mi biografia <3
 
 - 👋 Hola! soy @Mataisplays
-- 👀 Soy un programador principiante en node.js
+- 👀 Soy un desarrollador de bots en typescript
 - 🌱 Actualmente aprendo desarrollo web
-- 🍕 Me encanta la pizza
-- 🥇 No. 1 en cagarla
 
 <!---
 Mataisplays/Mataisplays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
